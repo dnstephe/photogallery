@@ -58,6 +58,12 @@ p{
     padding-left: 10px;
 }
 
+#gallery-container{
+    display:grid;
+}
+#gallery-container figure{
+    margin-bottom:1rem ;
+}
 
 main figcaption{
     text-align: center;
